@@ -26,6 +26,8 @@ I love creating digital experiences with intention and personality. Constantly l
 
 ## ✦ projects
 
+*(Currently building...)*
+
 * Portfolio Website
 * UI Experiments
 * Front-End Projects
