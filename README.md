@@ -42,7 +42,7 @@ I love creating digital experiences with intention and personality. Constantly l
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="https://github.httpsaanvi">
+  <a href="https://github.@httpsaanvi">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;
