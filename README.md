@@ -42,10 +42,6 @@ I love creating digital experiences with intention and personality. Constantly l
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="https://github.com/httpsaanvi">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
   <a href="YOUR_PORTFOLIO_URL">
     🌐 Portfolio <sup>(Coming Soon)</sup>
   </a>
