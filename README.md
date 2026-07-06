@@ -1,23 +1,22 @@
-# hi, i'm saanvi.
+# hi, i'm saanvi ✦
 
-**UI/UX Designer • Front-End Developer**
+**Designer • Front-End Developer • Always Exploring**
 
-I enjoy designing clean, intuitive interfaces and bringing them to life with code. Currently exploring front-end development while building a strong foundation in design principles.
-
----
-
-## currently focusing on
-
-- Responsive Web Design
-- UI/UX Design
-- HTML & CSS
-- JavaScript
-- Python
-- Git & GitHub
+I love creating digital experiences with intention and personality. Constantly learning, exploring new ideas, and adapting as I grow. Every project is a chance to create something that feels uniquely mine.
 
 ---
 
-## tech stack
+## ✦ currently exploring
+
+* UI/UX Design
+* Front-End Development
+* HTML • CSS • JavaScript
+* Python
+* Git & GitHub
+
+---
+
+## ✦ tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,figma,vscode" />
@@ -25,39 +24,16 @@ I enjoy designing clean, intuitive interfaces and bringing them to life with cod
 
 ---
 
-## projects
+## ✦ projects
 
-Coming soon...
-
-- Personal Portfolio
-- Landing Page Collection
-- UI Components
-- JavaScript Mini Projects
+* Portfolio Website
+* UI Experiments
+* Front-End Projects
+* JavaScript Challenges
 
 ---
 
-## currently learning
-
-```txt
-████████░░░░ HTML & CSS
-███████░░░░░ JavaScript
-██████░░░░░░ Python
-████████░░░░ Figma
-█████░░░░░░░ Git & GitHub
-```
-
----
-
-## github stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&theme=transparent"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&theme=transparent"/>
-</p>
-
----
-
-> *Design is how it works. Development is how it comes alive.*
+### ✦ learn. explore. adapt. create.
 
 <!--
 **httpsaanvi/httpsaanvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
