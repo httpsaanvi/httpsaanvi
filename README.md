@@ -35,20 +35,6 @@ I love creating digital experiences with intention and personality. Constantly l
 
 ---
 
-## ✦ connect
-
-<p>
-  <a href="https://www.linkedin.com/in/saanvi-tomar-a0b21a374?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="YOUR_PORTFOLIO_URL">
-    🌐 Portfolio <sup>(Coming Soon)</sup>
-  </a>
-</p>
-
----
-
 ### ✦ learn. explore. adapt. create.
 
 <!--
