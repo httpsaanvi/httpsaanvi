@@ -2,17 +2,17 @@
 
 **Designer • Front-End Developer • Always Exploring**
 
-I love creating digital experiences with intention and personality. Constantly learning, exploring new ideas, and adapting as I grow. Every project is a chance to create something that feels uniquely mine.
+I love creating digital experiences with intention and personality. Constantly learning, experimenting, and adapting as I grow. Every project is a chance to create something that feels uniquely mine.
 
 ---
 
 ## ✦ currently exploring
 
-* UI/UX Design
-* Front-End Development
-* HTML • CSS • JavaScript
-* Python
-* Git & GitHub
+- UI/UX Design
+- Front-End Development
+- HTML • CSS • JavaScript
+- Python
+- Git & GitHub
 
 ---
 
@@ -28,10 +28,27 @@ I love creating digital experiences with intention and personality. Constantly l
 
 (Currently building...)
 
-* Portfolio Website
-* UI Experiments
-* Front-End Projects
-* JavaScript Challenges
+- Portfolio Website
+- UI Experiments
+- Front-End Projects
+- JavaScript Challenges
+
+---
+
+## ✦ connect
+
+<p>
+  <a href="https://www.linkedin.com/in/saanvi-tomar-a0b21a374?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.httpsaanvi">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;
+  <a href="🌐 Portfolio <sup>(Coming Soon)</sup>">
+  </a>
+</p>
 
 ---
 
