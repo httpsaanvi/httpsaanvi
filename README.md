@@ -46,7 +46,8 @@ I love creating digital experiences with intention and personality. Constantly l
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;
-  <a href="🌐 Portfolio <sup>(Coming Soon)</sup>">
+  <a href="YOUR_PORTFOLIO_URL">
+    🌐 Portfolio <sup>(Coming Soon)</sup>
   </a>
 </p>
 
